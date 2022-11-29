@@ -1,5 +1,7 @@
-contar = 0
-while contar <= 10:
-  print(contar)
-  contar +=1
+letra = input()
 
+print(letra)
+print(letra*2)
+print(f'{letra} {letra}')
+print(f'2{letra}')
+print(f'[{letra}]')
