@@ -1,0 +1,3 @@
+def imprimeAPC():
+    print('APC')
+
